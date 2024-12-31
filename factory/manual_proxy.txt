@@ -81,6 +81,7 @@ gs-loc.apple.com
 bag.itunes.apple.com
 apple.news
 news.iadsdk.apple.com
+gspe1-ssl.ls.apple.com
 
 # github
 raw.githubusercontent.com
